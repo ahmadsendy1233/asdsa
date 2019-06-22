@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Mister Spy Shell</title>
+<title>Mister Spy</title>
 <style type="text/css">
 </style>
 </head>
@@ -19,7 +19,7 @@ Mister Spy Say ="Hello Kids ... :D"
                 \_|  |_/_|___/\__\___|_|    \____/| .__/ \__, |
                                                  | |     __/ |
                                                  |_|    |___/
-                                       Bot Mister Spy V5</center>
+                                       Bot Mister Spy V3</center>
 
 	</pre>
 </header>
